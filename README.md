@@ -6,6 +6,18 @@ Repetible-Research Generic Python Project
 Because *Human* is **perfectible** and **error-prone**, because *Science* should be **open** and **flow** and because *cogito ergo sum*.
 
 #### Status
+This is my status, and Sik is changing stuff !!
+
+This is my status, and Sik is changing stuff !!
+This is my status, and Sik is changing stuff !!
+This is my status, and Sik is changing stuff !!
+This is my status, and Sik is changing stuff !!
+This is my status, and Sik is changing stuff !!
+This is my status, and Sik is changing stuff !!
+This is my status, and Sik is changing stuff !!
+This is my status, and Sik is changing stuff !!
+This is my status, and Sik is changing stuff !!
+This is my status, and Sik is changing stuff !!
 
 
 Project folder structure
@@ -72,7 +84,11 @@ Todo
 - [ ] Add paper submodule
 - [ ] Add code modules
 - [ ] Add travis
-- [ ]
+- [x] something SIK has done
+- [x] something SIK has done
+- [x] something SIK has done
+- [x] something SIK has done
+- [x] something SIK has done
 
 ### Coding
 
