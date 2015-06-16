@@ -71,6 +71,23 @@ Icon
 .Spotlight-V100
 .Trashes
 
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
 # Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
@@ -120,6 +137,66 @@ Session.vim
 .netrwhist
 *~
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+
+# Sphinx documentation
+docs/_build/
+
+docs/_static
+docs/_templates
+
+# PyBuilder
+target/
+
 # Virtualenv
 # http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 .Python
@@ -127,81 +204,8 @@ Session.vim
 [Ii]nclude
 [Ll]ib
 [Ss]cripts
-
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
-
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-build/
-*.pbxuser
-!default.pbxuser
-*.mode1v3
-!default.mode1v3
-*.mode2v3
-!default.mode2v3
-*.perspectivev3
-!default.perspectivev3
-xcuserdata
-*.xccheckout
-*.moved-aside
-DerivedData
-*.xcuserstate
-
-# intermediate build files
-*.bgn
-*.bit
-*.bld
-*.cmd_log
-*.drc
-*.ll
-*.lso
-*.msd
-*.msk
-*.ncd
-*.ngc
-*.ngd
-*.ngr
-*.pad
-*.par
-*.pcf
-*.prj
-*.ptwx
-*.rbb
-*.rbd
-*.stx
-*.syr
-*.twr
-*.twx
-*.unroutes
-*.ut
-*.xpi
-*.xst
-*_bitgen.xwbt
-*_envsettings.html
-*_map.map
-*_map.mrp
-*_map.ngm
-*_map.xrpt
-*_ngdbuild.xrpt
-*_pad.csv
-*_pad.txt
-*_par.xrpt
-*_summary.html
-*_summary.xml
-*_usage.xml
-*_xst.xrpt
-
+||||||| merged common ancestors
+=======
+# emacs backup
+*~
+>>>>>>> guilaumeUPS/master
